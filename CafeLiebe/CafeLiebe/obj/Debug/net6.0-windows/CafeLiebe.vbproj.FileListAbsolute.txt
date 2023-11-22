@@ -1,0 +1,45 @@
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\bin\Debug\net6.0-windows\CafeLiebe.exe
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\bin\Debug\net6.0-windows\CafeLiebe.deps.json
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\bin\Debug\net6.0-windows\CafeLiebe.runtimeconfig.json
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\bin\Debug\net6.0-windows\CafeLiebe.dll
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\bin\Debug\net6.0-windows\CafeLiebe.pdb
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form1.resources
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Resources.resources
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.vbproj.GenerateResource.cache
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.GeneratedMSBuildEditorConfig.editorconfig
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.AssemblyInfoInputs.cache
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.AssemblyInfo.vb
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.vbproj.CoreCompileInputs.cache
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.dll
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\refint\CafeLiebe.dll
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.pdb
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.genruntimeconfig.cache
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\ref\CafeLiebe.dll
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form2.resources
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form3.resources
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form4.resources
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form5.resources
+D:\agoi\CS2\AWIT\Cafe Liebe\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form6.resources
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\bin\Debug\net6.0-windows\CafeLiebe.exe
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\bin\Debug\net6.0-windows\CafeLiebe.deps.json
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\bin\Debug\net6.0-windows\CafeLiebe.runtimeconfig.json
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\bin\Debug\net6.0-windows\CafeLiebe.dll
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\bin\Debug\net6.0-windows\CafeLiebe.pdb
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form1.resources
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form2.resources
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form3.resources
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form4.resources
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form5.resources
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Form6.resources
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.Resources.resources
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.AssemblyInfo.vb
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.dll
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\refint\CafeLiebe.dll
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.pdb
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\CafeLiebe.genruntimeconfig.cache
+C:\Users\User\source\repos\CafeLiebe\CafeLiebe\obj\Debug\net6.0-windows\ref\CafeLiebe.dll
